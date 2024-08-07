@@ -9,9 +9,11 @@ The House Price Prediction project aims to develop a machine learning model to a
 - Gather and clean the dataset to ensure it is suitable for model training.
 - Handle missing values, normalize data, and perform feature engineering to enhance model performance.
 
+
 2. **Exploratory Data Analysis (EDA)**:
 - Conduct EDA to uncover patterns and relationships within the data.
 - Visualize data distributions, correlations, and other relevant metrics to gain insights.
+
 
 3. **Model Selection and Training**:
 
@@ -25,6 +27,7 @@ Evaluate various machine learning algorithms such as:
 - Perform fine-tuning on all models except Linear Regression to optimize performance.
 - Split the dataset into training and testing sets to train and validate the models.
 - The best model identified was the Support Vector Machine, fine-tuned using log-transformed data.
+
 
 4. **Prediction**:
 - Use the trained model to make predictions on new house data.
