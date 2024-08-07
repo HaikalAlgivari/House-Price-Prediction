@@ -14,6 +14,7 @@ The House Price Prediction project aims to develop a machine learning model to a
 - Visualize data distributions, correlations, and other relevant metrics to gain insights.
 
 3. **Model Selection and Training**:
+
 Evaluate various machine learning algorithms such as:
 - Linear Regression
 - Decision Tree
